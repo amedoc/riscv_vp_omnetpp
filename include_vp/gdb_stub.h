@@ -56,6 +56,6 @@ struct DebugCoreRunner : public sc_core::sc_module {
     void handle_gdb_loop(int conn);
 };
 
-#include "gdb_stub.tpp"
+#include "gdb_stub.cpp"
 
 #endif  // RISCV_ISA_GDB_STUB_H
