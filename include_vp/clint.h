@@ -7,7 +7,7 @@
 #include <tlm_utils/simple_target_socket.h>
 #include <systemc>
 
-#include "util/memory_map.h"
+#include "memory_map.h"
 
 template <unsigned NumberOfCores>
 struct CLINT : public clint_if, public sc_core::sc_module {
