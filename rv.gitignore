@@ -1,0 +1,13 @@
+.settings/
+
+.project
+.oppbuildspec
+.cproject
+
+# Object file
+*.o
+
+
+
+
+
