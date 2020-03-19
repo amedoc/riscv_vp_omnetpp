@@ -10,7 +10,7 @@ In the following we provide build instructions and how to compile and run softwa
 
 ```bash
 sudo apt-get install autoconf automake autotools-dev curl libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev libexpat-dev
-```fo gperf libtool patchutils bc zlib1g-dev libexpat-dev
+```
 
 
 For more information on prerequisites for the RISC-V GNU toolchain visit https://github.com/riscv/riscv-gnu-toolchain. With the packages installed, the toolchain can be build as follows:
