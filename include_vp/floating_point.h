@@ -89,5 +89,8 @@ struct FpRegs {
 
     float64_t f64(unsigned idx) {
         return regs[idx];
+
     }
+
 };
+
